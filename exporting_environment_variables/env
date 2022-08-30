@@ -1,0 +1,7 @@
+SECRET_KEY='enter the project secret key here'
+ALLOWED_HOSTS='enter the host ip or domain'
+DATABASE_NAME='the name of the database'
+DATABASE_USER='the name of the database user'
+DATABASE_PASSWORD='password for that user'
+DATABASE_HOST='localhost'
+DATABASE_PORT='5432'
