@@ -1,0 +1,5 @@
+Host <an unique name>
+    HostName github.com
+    User git
+    PreferredAuthentications publickey
+    IdentityFile <Your file path: ex: ~/.ssh/id_rsa>
